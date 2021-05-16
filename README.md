@@ -4,4 +4,7 @@ Sorakimeです。もともと2019年にInstagram始めてからネットでの�
 
 年齢非公開、男、顔非公開、住所職業とか非公開の謎の人物。YouTubeみてね。
 
-なんか出てきたんでAbout作ってみました。以上です
+#About monochrome Project.
+monochrome Project.ないしはmonochrome.は、Sorakimeのソフトウェア垂直統合プロジェクト。まぁ実際のところは自分の名前を使うのが死ぬほどダサかったからこうしたってのもあるけど。
+
+[Projects](./mncr/prj.md)
