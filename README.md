@@ -7,6 +7,7 @@ Sorakimeです。もともと2019年にInstagram始めてからネットでの�
 それと、2021年7月21日から[VCborn](https://github.com/VCborn)という、Ubuntuベースのディストロを作ってるらしいグループに所属してます。僕はデザインとWeb開発、効果音作成そして動画作成をしていますが、効果音は少しだけ、Webとデザインを主に仕事してます。
 
 # About monochrome Project.
-monochrome Project.ないしはmonochrome.は、Sorakimeのソフトウェア垂直統合プロジェクト。まぁ実際のところは自分の名前を使うのが死ぬほどダサかったからこうしたってのもあるけど。
+monochrome Project.ないしはmonochrome.は、Sorakimeのソフトウェア垂直統合プロジェクト。まぁ実際のところは自分の名前を使うのが死ぬほどダサかったからこうしたってのもあるけど
 
-[Projects](./mncr/prj.md)
+[Projects(GitHub)](./mncr/prj.md)
+[Projects(SmncrS](https://sorakime.github.io/mncr/project/)
