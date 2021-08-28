@@ -10,4 +10,5 @@ Sorakimeです。もともと2019年にInstagram始めてからネットでの�
 monochrome Project.ないしはmonochrome.は、Sorakimeのソフトウェア垂直統合プロジェクト。まぁ実際のところは自分の名前を使うのが死ぬほどダサかったからこうしたってのもあるけど
 
 [Projects(GitHub)](./mncr/prj.md)
-[Projects(SmncrS](https://sorakime.github.io/mncr/project/)
+
+[Projects(SmncrS)](https://sorakime.github.io/mncr/project/)
