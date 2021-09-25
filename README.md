@@ -2,7 +2,7 @@
 Sorakimeです。もともと2019年にInstagram始めてからネットでの活動が活発になりました。
 主にWeb技術が大好きです。Apple、Superfly、東方(凋叶棕とか森羅万象とか)が好きだったり。。。
 
-あとは実は「thinking」っていうグループを作ってます。開発ではなくて「クリエイターグループ」。現在６人。あと４人は募ってる
+あとは実は「thinking」っていうグループを作ってます。開発ではなくて「クリエイターグループ」。現在7人。あと3人は募ってる
 
 年齢非公開、男、顔非公開、住所職業とか非公開の謎の人物。YouTubeみてね。
 
@@ -22,3 +22,4 @@ monochrome Project.ないしはmonochrome.は、Sorakimeのソフトウェア垂
 thinkingはクリエイターグループです。今のところロゴやウェブサイトすらないものですがまぁ今ロゴは制作中。あと4人くらいは応募待ってるので入ってくれたらうれしいです。
 
 [Twitter](https://twitter.com/thinking_grp)
+[GitHub](https://github.com/thinking-grp)
