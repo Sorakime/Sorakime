@@ -28,3 +28,5 @@ thinkingはクリエイターグループです。今のところロゴやウェ
 [GitHub](https://github.com/thinking-grp)
 
 [Website?](https://thinking-grp.github.io)
+
+[#らずくのらぞくへの改名求めます](https://soraki.me/renametorazoku.html)
