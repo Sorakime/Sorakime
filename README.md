@@ -14,6 +14,8 @@ Sorakimeです。もともと2019年にInstagram始めてからネットでの�
 # About monochrome Project.
 monochrome Project.ないしはmonochrome.は、Sorakimeのソフトウェア垂直統合プロジェクト。まぁ実際のところは自分の名前を使うのが死ぬほどダサかったからこうしたってのもあるけど
 
+代表作は「Monot」と「Litest」。前者は革新的な新しいウェブブラウザで、後者はmonochrome.の重要な柱となっている。
+
 [Projects(GitHub)](./mncr/prj.md)
 
 [Projects(SmncrS)](https://sorakime.github.io/mncr/project/)
