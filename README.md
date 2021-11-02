@@ -23,7 +23,7 @@ monochrome Project.ないしはmonochrome.は、Sorakimeのソフトウェア垂
 # About thinking
 thinkingはクリエイターグループです。
 
-あんま今なにもしてないですがそのうち何かをするでしょう！というかthinkOSの開発計画が絶賛立てられています！
+あんま今なにもしてないですがそのうち何かをするでしょう！というかthinkOSの開発計画が絶賛立てられています！Ubuntuベースのディストロだね
 
 [Twitter](https://twitter.com/thinking_grp)
 
