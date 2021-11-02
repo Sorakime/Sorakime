@@ -1,5 +1,5 @@
 # Projects — monochrome.
-monochrome Project.'s project.
+monochrome Project.'s projects.
 
 - [Batch Writer (開発終了)](https://github.com/Sorakime/Batch-Writer/)
 - [Litest (Beta 3開発中)](https://github.com/Sorakime/Litest/)
