@@ -21,7 +21,9 @@ monochrome Project.ないしはmonochrome.は、Sorakimeのソフトウェア垂
 [Projects(SmncrS)](https://sorakime.github.io/mncr/project/)
 
 # About thinking
-thinkingはクリエイターグループです。今のところロゴやウェブサイトすらないものですがまぁ今ロゴは制作中。あと4人くらいは応募待ってるので入ってくれたらうれしいです。
+thinkingはクリエイターグループです。
+
+あんま今なにもしてないですがそのうち何かをするでしょう！というかthinkOSの開発計画が絶賛立てられています！
 
 [Twitter](https://twitter.com/thinking_grp)
 
