@@ -10,6 +10,7 @@ Sorakimeです。もともと2019年にInstagram始めてからネットでの�
 僕はデザインとWeb開発、そして効果音作成をしていますが、効果音は少しだけ、Webとデザインを主に仕事してます。[こんなところ](https://vcborn.com/creators.html)に僕が載ってるよ。
 
 [僕のサイト。](https://sorakime.github.io/me/)
+
 [詳細？](./me/index.md)
 
 # About monochrome Project.
