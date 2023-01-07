@@ -9,9 +9,11 @@ Sorakimeです。もともと2019年にInstagram始めてからネットでの�
 それと、2021年7月21日から[VCborn](https://github.com/VCborn)([公式サイト](https://vcborn.com))という、Ubuntuベースのディストロを作ってるらしいグループに所属してます。
 僕はデザインとWeb開発、そして効果音作成をしていますが、効果音は少しだけ、Webとデザインを主に仕事してます。[こんなところ](https://vcborn.com/creators.html)に僕が載ってるよ。
 
-[僕のサイト。](https://soraki.me)
+[僕のサイト。](https://www.soraki.me)
 
 [詳細？](./me/index.md)
+
+開発が終わったとはいえ[![Atom](https://github.githubassets.com/images/icons/emoji/atom.png)](https://github.blog/2022-06-08-sunsetting-atom/)が大好き。
 
 ---
 
@@ -33,10 +35,10 @@ thinkingはクリエイターグループです。
 
 あんま今なにもしてないですがそのうち何かをするでしょう！というかthinkOSの開発計画が絶賛立てられています！Ubuntuベースのディストロだね
 
+でも結局あんまり何もしてない
+
 [Twitter](https://twitter.com/thinking_grp)
 
 [GitHub](https://github.com/thinking-grp)
 
 [Website?](https://thinking-grp.github.io)
-
-[#らずくのらぞくへの改名求めます](https://soraki.me/renametorazoku.html)
