@@ -26,7 +26,7 @@ monochrome Project.は、Sorakimeが始めたソフトウェア垂直統合プ�
 
 [Projects(GitHub)](./mncr/prj.md)
 
-[Projects(SmncrS)](https://sorakime.github.io/mncr/project/)
+[Projects(monochrome Project.)](https://mncrp.github.io/project/)
 
 ---
 
